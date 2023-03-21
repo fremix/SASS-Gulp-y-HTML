@@ -1,5 +1,9 @@
 body {
-  background-color: rgb(219, 134, 23);
+  background-color: rgb(151, 153, 172);
 }
 
-/*# sourceMappingURL=app.css.map */
+ /** Formas de ejecutar gulp  */
+ /** npm run css - npm run y el nomnbre de la tarea - colocar el nombe en el package.json*/
+ /** npx gulp css - npx gulp y el nomnbre de la tarea */
+
+
